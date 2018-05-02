@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewFickrBrowser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_photo_detail">"Photo Detail "</string>
+    <string name="text_search">Search</string>
+
+    <string-array name="shopping_item">
+        <item>Download Image</item>
+        <item>Share Image</item>
+        <item>Share Image link</item>
+    </string-array>
+</resources>
